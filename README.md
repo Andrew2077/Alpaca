@@ -1,5 +1,7 @@
 # Alpaca Q/A 
  Simple Q/A app, where I created a UI for alpaca (fine tuned LLAMA) model with Pynecone and hosted on Google Colab
+ 
+ Test it on the notebook [here](alpacaQ&A.ipynb), please give alpaca a time to think, thank you.
 
 ## Table of Contents
 - [Alpaca Q/A](#alpaca-qa)
