@@ -34,7 +34,7 @@
 - Google Colab
 - [Pynecone](https://github.com/pynecone-io/pynecone) - full-stack Python framework
 - [Localtunnel](https://www.npmjs.com/package/localtunnel) - which i used to connect the backend to the frontend.
-- Huggieface - for the pretrained model and it's tokenizer, 7b model [here](https://huggingface.co/chainyo/alpaca-lora-7b)
+- HuggingFace-Transformers - for the pretrained model and it's tokenizer, 7b model [here](https://huggingface.co/chainyo/alpaca-lora-7b)
 
 ## Project Steps
 1. Load required libraries
