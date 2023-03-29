@@ -63,9 +63,11 @@
 - be patient.
 - it's can be dockerized, but keep in mind that it's Opensource and free.
 - make sure to connect to a GPU runtime, it will not load the model after downloading it.
+- you can run it locally on your machine, if you have strong GPU Beffy GPU, i suggest Creating Conda Enviroment for such a task
 
 ## Disclaimer
-- I didn't create the model, I just created a simple app for it, and hosted it on Google Colab.
+- I didn't create the model, I just created a simple app for it, and I figured out a way to host the app on colab.
+- Yes, localtunnel exposes your instance and you can use it over your phone sharing Urls will cause problems, as i haven't created a database for it yet, neither it can take parallel command.
 - I do understand that it's not the best way to host it, but it's free and easy to use, you dont have to download anything, on your machine to test it out.just run the notebook and you're good to go.
 - What i did is not a machine learning enigneering task. I just understand how it works, I don't posses the abilty to fine tune it, or create a better model. as such task needs a beefy machine, and a lot of time.
 
