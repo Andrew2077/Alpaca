@@ -61,10 +61,12 @@
 ## Furthur Notes
 - it's slow compared ChatGPT, don't get your hopes up
 - be patient.
+- Settings are self-explanatory just hover over it.
 - it's can be dockerized, but keep in mind that it's Opensource and free.
 - make sure to connect to a GPU runtime, it will not load the model after downloading it.
-- you can run it locally on your machine, if you have strong GPU Beffy GPU, i suggest Creating Conda Enviroment for such a task
-
+- you can run it locally on your machine, if you have strong GPU Beffy GPU, i suggest Creating Conda Enviroment for such a task.
+- [model](model.ipynb) contains the simple implementation of the model
+- [app](app.ipynb) contains the code for the app created using Pynecone
 ## Disclaimer
 - I didn't create the model, I just created a simple app for it, and I figured out a way to host the app on colab.
 - Yes, localtunnel exposes your instance and you can use it over your phone sharing Urls will cause problems, as i haven't created a database for it yet, neither it can take parallel command.
@@ -73,8 +75,8 @@
 
 
 ## Known Issues
-- some times you'll have to refresh the page to get the answer, it's a known issue, and I'm working on it.
-- Halucinations, that's why Stanford had taken it down, right now some people were assuming that that's an issues with the dataset and are trying to update it, once something better is out i will update the model.
+- **Loading-Bug,** some times you'll have to refresh the page to get the answer, it's a known issue, and I'm working on it.
+- **Halucinations**, that's why Stanford had taken it down, right now some people were assuming that that's an issues with the dataset and are trying to update it, once something better is out i will update the model.
 
 
 ## Future Work
