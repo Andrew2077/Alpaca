@@ -62,7 +62,7 @@
 - it's slow compared ChatGPT, don't get your hopes up
 - be patient.
 - Settings are self-explanatory just hover over it.
-- it's can be [dockerized](https://pynecone.io/docs/hosting/self-hosting), but keep in mind that it's Opensource and free.
+- it can be [dockerized](https://pynecone.io/docs/hosting/self-hosting), but keep in mind that it's Opensource and free.
 - make sure to connect to a GPU runtime, it will not load the model after downloading it.
 - you can run it locally on your machine, if you have strong GPU Beffy GPU, i suggest Creating Conda Enviroment for such a task.
 - [model](model.ipynb) contains the simple implementation of the model
