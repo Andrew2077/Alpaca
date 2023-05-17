@@ -1,4 +1,8 @@
 # Alpaca Q/A 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14DIYJ30PyZlVQ_BhqWmgYZJpkKpOYB4T?usp=sharing)
+
+
+
  Simple Q/A app, where I created a UI for alpaca (fine tuned LLAMA) model with Pynecone and hosted on Google Colab
  
  Test it on the notebook [here](alpacaQ&A.ipynb), please give alpaca a time to think, thank you.
